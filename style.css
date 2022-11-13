@@ -1,0 +1,165 @@
+*,
+html {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: #F5F5F5;
+}
+
+/*Navigation Bar*/
+.fcontent {
+	background-color: white;
+	left: 0px;
+	top: 0px;
+	width: 1600px;
+	height: 103px;
+}
+
+.ul {
+	display: flex;
+	padding: 22px;
+}
+
+.menu {
+	list-style-type: none;
+	margin: 26px;
+}
+
+.a-navbar {
+	text-decoration: none;
+	color: black;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+/*IMG Content*/
+.img-content {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 1420px;
+	top: 30px;
+}
+
+.img-content2 {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 1350px;
+	top: 32px;
+
+}
+
+.kurawal {
+	position: absolute;
+	width: 335px;
+	height: 358px;
+	left: 999px;
+	top: 265px;
+
+}
+
+.icon {
+	position: absolute;
+	width: 108.52px;
+	height: 97.95px;
+	top: 1000px;
+	right: 5px;
+	left: 50px;
+	bottom: 100px;
+
+}
+
+/*Text content*/
+.text1 {
+	position: absolute;
+	left: 165px;
+	right: 700px;
+	top: 345px;
+	bottom: 622px;
+
+	font-family: 'Georama';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 48px;
+	line-height: 57px;
+
+}
+
+.paragraph {
+	position: absolute;
+	width: 497px;
+	height: 66px;
+	left: 165px;
+	top: 418px;
+
+	font-family: 'Forum';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 33px;
+}
+
+/*project and skill button*/
+.div-border {
+	background-color: #535353;
+	position: absolute;
+	width: 129px;
+	height: 42px;
+	left: 165px;
+	top: 512px;
+	border-radius: 10px;
+}
+
+/*box shadow*/
+.div-border {
+	box-shadow: 10px 17px 29px -8px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 10px 17px 29px -8px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 17px 29px -8px rgba(0,0,0,0.75);
+}
+
+.div-border h1 {
+	position: absolute;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 19px;
+	color: white;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.div-border2 {
+	background-color: #535353;
+	position: absolute;
+	width: 129px;
+	height: 42px;
+	left: 326px;
+	top: 512px;
+	border-radius: 10px;
+}
+
+/*box shadow*/
+.div-border2 {
+	box-shadow: 29px 17px 14px -8px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 29px 17px 14px -8px rgba(0,0,0,0.75);
+	-moz-box-shadow: 29px 17px 14px -8px rgba(0,0,0,0.75);
+}
+
+.div-border2 h1 {
+	position: absolute;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 19px;
+	color: white;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);	
+}
